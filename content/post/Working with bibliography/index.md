@@ -17,8 +17,6 @@ Welcome
 
 ## What is a Bibliography?
 
-Version control (also known as source control) is a system that records changes to a file or set of files over time so that you can recall specific versions later.  Think of it like a sophisticated "undo" button, but for entire projects, not just single actions. It's crucial for software development and any collaborative project where you need to track changes, revert to previous states, and manage contributions from multiple people.
-
 •  Definition: A bibliography is a systematic list of all the sources (books, articles, websites, etc.) that you consulted and potentially used in your research, whether or not you directly cited them in your work. It's an alphabetical compilation of source information that allows readers to locate and verify the sources you used to support your claims. It demonstrates the breadth and depth of your research and gives credit to the original authors whose work influenced your own.
 
 ## Distinction from References/Works Cited
