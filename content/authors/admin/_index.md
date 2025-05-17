@@ -85,4 +85,4 @@ languages:
 
 ## About Me
 
-Vieru Genifer is a 1st yaer student at Peoples' Friendship University of Russia. She is studying mathematics and programming. 
+Vieru Genifer is a 1st year student at Peoples' Friendship University of Russia. She is studying mathematics and programming. 
