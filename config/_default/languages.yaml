@@ -2,21 +2,70 @@
 #   Create a section for each of your site's languages.
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
-# Default language
-en:
-  languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+# Русская версия сайта
+ru:
+  languageCode: 'ru-ru'
+  contentDir: 'content/ru/'   # Контент на русском языке
+  title: 'Ж. Виеру'
+  date_format: '2025-05-30'
+  address:
+    street: 'ул. Орджоникидзе, 3'
+    city: 'г. Москва'
+    region: 'Российская Федерация'
+    postcode: '115419'
+    country: 'Российская Федерация'
+    country_code: 'RU'
+  address_format: 'zh'  # Если нужно, иначе можно убрать
+  menu:
+    main:
+      - name: 'Блог'
+        url: 'post/'
+        weight: 20
+      - name: 'Проекты'
+        url: 'project/'
+        weight: 30
+      - name: 'Публикации'
+        url: 'publication/'
+        weight: 40
+      - name: 'Обсуждения'
+        url: '/#talks'
+        weight: 12
+      - name: 'Новости'
+        url: '/#news'
+        weight: 13
+      - name: 'Опыт'
+        url: 'experience/'
+        weight: 20
+      - name: 'Обучение'
+        url: 'teaching/'
+        weight: 40
 
-# Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+# Английская версия сайта
+en:
+  languageCode: 'en-us'
+  contentDir: 'content/en/'   # Content in English
+  title: 'G. Vieru'
+  date_format: '2025-05-30'
+  menu:
+    main:
+      - name: 'Blog'
+        url: 'post/'
+        weight: 20
+      - name: 'Projects'
+        url: 'project/'
+        weight: 30
+      - name: 'Publications'
+        url: 'publication/'
+        weight: 40
+      - name: 'Talks'
+        url: '/#talks'
+        weight: 12
+      - name: 'News'
+        url: '/#news'
+        weight: 13
+      - name: 'Experience'
+        url: 'experience/'
+        weight: 20
+      - name: 'Teaching'
+        url: 'teaching/'
+        weight: 40
